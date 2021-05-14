@@ -1,7 +1,7 @@
 import React, { ReactElement } from 'react';
 import { Platform, UIManager, Keyboard } from 'react-native';
 import ReactNative from 'react-native';
-import  {
+import {
   PagerViewOnPageScrollEvent,
   PagerViewOnPageSelectedEvent,
   PageScrollStateChangedNativeEvent,

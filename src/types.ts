@@ -1,5 +1,5 @@
-import  { ReactNode } from 'react';
-import  * as ReactNative from 'react-native';
+import { ReactNode } from 'react';
+import * as ReactNative from 'react-native';
 
 export type TransitionStyle = 'scroll' | 'curl';
 export type Orientation = 'horizontal' | 'vertical';

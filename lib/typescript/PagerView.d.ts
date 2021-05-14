@@ -1,5 +1,5 @@
 import React, { ReactElement } from 'react';
-import  { PagerViewProps } from './types';
+import { PagerViewProps } from './types';
 /**
  * Container that allows to flip left and right between child views. Each
  * child view of the `PagerView` will be treated as a separate page

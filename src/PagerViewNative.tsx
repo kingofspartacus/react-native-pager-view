@@ -1,6 +1,6 @@
-import  { ReactElement } from 'react';
+import { ReactElement } from 'react';
 import { HostComponent, requireNativeComponent, UIManager } from 'react-native';
-import  { PagerViewProps } from './types';
+import { PagerViewProps } from './types';
 
 const VIEW_MANAGER_NAME = 'RNCViewPager';
 
